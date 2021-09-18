@@ -11,6 +11,7 @@ ytick.color : .15
 axes.axisbelow : True
 grid.linestyle : -
 text.color : .15
+text.usetex: True
 font.family : ["sans-serif"]
 font.size : 20
 lines.solid_capstyle : round
