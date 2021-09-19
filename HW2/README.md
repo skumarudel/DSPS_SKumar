@@ -1,5 +1,5 @@
 # Notebooks for Homework 2
-There are two notebooks 
+There are two notebooks. Both are created by me (Sajan Kumar)
 ## Notebook 1: Understanding the Maxwell Boltzman distribution
 * Plot the Maxewell Botlzman distribution using special case of Chi distribution using three degree of freedom
 * Understand the concept of scale parameter of chi distribution and how it is related to the temperature of the gas
