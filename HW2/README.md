@@ -12,4 +12,4 @@ There are two notebooks. Both are created by me using template from class (Sajan
 * For each sample plot, the sample mean and standard deviation is plotted against the sample size
 * Law of large number is verified from these plots as the sample size increases, the sample mean approach sample population mean
 * Mean of samples drawn from each distribution is plotted in a histogram to verfiy the central limit theorm
-* Fit the mean of samples with a gaussian function to estimate the mean and standard deviation (using unbinned maximum likelihood method)
+* Fit the mean of samples with a gaussian function to estimate the mean and standard deviation (using unbinned maximum likelihood method and scipy curve_fit method)
