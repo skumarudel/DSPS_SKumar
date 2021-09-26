@@ -10,4 +10,6 @@ Remember to include a README.md, in markdown format, that states how your team w
 
 #  KS test 
 - I (Sajan Kumar) have created this notebook [Kolmogorov_smirnov_earthquake.ipynb](Kolmogorov_smirnov_earthquake.ipynb) to reproduce the use of the KS test in [Corral 2018](https://arxiv.org/pdf/0910.0055.pdf). 
+- Notebook explain the concept of KS test and where we use it. For example, to compare if the two datasets belongs to same distribution
+- Understand the concepy of Null Hypothesis. For instance, how to define the value of probabilitiy threshold (2 sigma, 3 sigma or higher) to reject the null hypothesis before starting the data analysis not to bias the outcome "after looking at the results".
  
