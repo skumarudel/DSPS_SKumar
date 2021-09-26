@@ -9,7 +9,5 @@ Work in groups of 3 to 5 people.
 Remember to include a README.md, in markdown format, that states how your team worked: who you worked with and what you contributed specifically.
 
 #  KS test 
-Reproduce the use of the KS test in [Corral 2018](https://arxiv.org/pdf/0910.0055.pdf). 
- 
- - I (Sajan Kumar) have created this notebook [Kolmogorov_smirnov_earthquake.ipynb](Kolmogorov_smirnov_earthquake.ipynb) to reproduce the use of the KS test
+- I (Sajan Kumar) have created this notebook [Kolmogorov_smirnov_earthquake.ipynb](Kolmogorov_smirnov_earthquake.ipynb) to reproduce the use of the KS test in [Corral 2018](https://arxiv.org/pdf/0910.0055.pdf). 
  
