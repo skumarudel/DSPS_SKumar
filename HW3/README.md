@@ -11,5 +11,5 @@ Remember to include a README.md, in markdown format, that states how your team w
 #  KS test 
 Reproduce the use of the KS test in [Corral 2018](https://arxiv.org/pdf/0910.0055.pdf). 
  
- - I have created this notebook [Kolmogorov_smirnov_earthquake.ipynb](Kolmogorov_smirnov_earthquake.ipynb) to reproduce the use of the KS test
+ - I (Sajan Kumar) have created this notebook [Kolmogorov_smirnov_earthquake.ipynb](Kolmogorov_smirnov_earthquake.ipynb) to reproduce the use of the KS test
  
