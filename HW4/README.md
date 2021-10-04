@@ -7,7 +7,7 @@ Read the Sessions 1 and 2 of [Hogg and Foreman-Mackey 2017](https://arxiv.org/pd
 
 # 1. Uncerainties and Dark Matter 
 
-follow the instructions in the notebook [Galrotation.ipynb](Galrotation.ipynb)
+follow the instructions in the notebook [GalRotation.ipynb](GalRotation.ipynb)
 
 # Contribution
 I created all solutions alone 
