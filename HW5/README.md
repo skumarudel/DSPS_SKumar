@@ -10,5 +10,5 @@ I created all solutions alone
 # Concepts understood
 - Understanding chi2 and likelihood method of model fitting
 - Fitting model to data using matrix algebra
-- Finding model parameters and its errors  
+- Finding model parameters and its parameter errors  
 
