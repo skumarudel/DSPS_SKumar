@@ -8,7 +8,7 @@ This plots shows two histograms on top of each other but the signal+background h
 ![image](https://github.com/skumarudel/DSPS_SKumar/blob/master/HW6/originalimage.png)
 
 ## Modified plot
-I modified the original plot and use a steptype histogram instead of default (filled one). Now you can clearly see both the histogram
+I modified the original plot and use a steptype histogram instead of default (filled one). Now you can see both the histograms clearly. Also adding the gaussian fit in the legend make it clear about the background estimation. I also changed the fitted line to dotted which looks appealing. The font size of axis labels is also increased a bit. The legend is also clearly distinguished from the plot, by giving the legendframe a light color.  
 
 
 ![image](https://github.com/skumarudel/DSPS_SKumar/blob/master/HW6/modifiedimage.png)
