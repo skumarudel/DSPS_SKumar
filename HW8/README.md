@@ -5,6 +5,6 @@
 - Check for feature imortance 
 - Plot confusion matrix
 - Hyperparameter tuning for best out of sample performance (i.e on Test data)
-## Regression Analysis to predict the weight of particles
+## Regression Analysis to predict the weight of particles in Higgs data
 - Use Random Forest and Gradient boosting regressor
 - Use both the L2 and L1 loss function to check the performance of the regressor
