@@ -1,4 +1,4 @@
-# Assignemt number 8
+# Assignment number 8
 ## Classification of Signal and Background in Higgs data
 - Analysis of Higgs boson data for classification of signal and background
 - Used Random forest and Gradient boosting for model training
