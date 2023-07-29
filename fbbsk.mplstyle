@@ -20,7 +20,7 @@ image.cmap : viridis
 xtick.top : True
 ytick.right : True
 axes.grid : False
-axes.linewidth : 0.8
+axes.linewidth : 1.5
 figure.figsize   : 8, 6
 font.sans-serif : ["DejaVu Sans", "Arial", "Liberation Sans", "Bitstream Vera Sans", "sans-serif"]
 axes.prop_cycle    : cycler('color', ['4682b4', 'F38400', '875692', 'BE0032', 'C2B280', 'F3C300',  '848482', '008856', 'E68FAC', '0067A5', 'F99379', '604E97', 'F6A600', 'B3446C', 'DCD300', '882D17', '8DB600', '654522', 'E25822', '2B3D26', 'F2F3F4', '222222'])
