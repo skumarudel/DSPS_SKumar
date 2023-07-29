@@ -1,6 +1,7 @@
 axes.facecolor : FFFFFF   
 figure.facecolor : FFFFFF  
-figure.edgecolor : FFFFFF   
+figure.edgecolor : FFFFFF
+figure.constrained_layout.use : True,
 savefig.facecolor : FFFFFF    
 savefig.edgecolor : FFFFFF    
 axes.labelcolor : .15
@@ -8,6 +9,10 @@ xtick.direction : in
 ytick.direction : in
 xtick.color : .15
 ytick.color : .15
+xtick.major.size: 10 
+xtick.major.size: 5
+ytick.major.size: 10 
+ytick.major.size: 5
 axes.axisbelow : True
 grid.linestyle : -
 text.color : .15
