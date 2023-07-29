@@ -10,9 +10,9 @@ ytick.direction : in
 xtick.color : .15
 ytick.color : .15
 xtick.major.size: 10 
-xtick.major.size: 5
+xtick.minor.size: 5
 ytick.major.size: 10 
-ytick.major.size: 5
+ytick.minor.size: 5
 axes.axisbelow : True
 grid.linestyle : -
 text.color : .15
