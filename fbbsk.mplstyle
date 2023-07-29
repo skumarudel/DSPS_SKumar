@@ -1,7 +1,7 @@
 axes.facecolor : FFFFFF   
 figure.facecolor : FFFFFF  
 figure.edgecolor : FFFFFF
-figure.constrained_layout.use : True,
+figure.constrained_layout.use : True
 savefig.facecolor : FFFFFF    
 savefig.edgecolor : FFFFFF    
 axes.labelcolor : .15
